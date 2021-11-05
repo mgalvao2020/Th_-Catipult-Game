@@ -1,0 +1,4 @@
+member
+username, password
+TEXT, TEXT
+admin, admin
